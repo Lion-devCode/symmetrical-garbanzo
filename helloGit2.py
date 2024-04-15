@@ -1,1 +1,3 @@
-print("Hola git nuevamente :D")
+En este archivo voy ahora a saludar de distinas maneras a git
+
+Hola git 
