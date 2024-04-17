@@ -1,5 +1,3 @@
-En este archivo voy ahora a saludar de distinas maneras a git
+print("Bienvenido a la nueva version de helloGit2: HGv3!");
 
-Hola git 
-
-print("Hola git, te saludo desde mi version 2 de hello git 2");
+# En esta nueva version ya empezamos a programar de verdad.
